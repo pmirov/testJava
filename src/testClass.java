@@ -4,6 +4,7 @@ public class testClass {
 
         //текст
         //новый коммент
+        //попо
 
         System.out.println("Hello pops!");
 
